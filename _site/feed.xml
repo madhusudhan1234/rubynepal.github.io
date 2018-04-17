@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-18T00:56:01+05:45</updated><id>http://localhost:4000/</id><title type="html">Ruby Nepal</title><subtitle>We are Ruby community of Nepal. The aim of this community is to support, encourage and spread the use and adoption of the Ruby programming language in Nepal,
+ and to develop a vibrant community around the language and related technologies.</subtitle><entry><title type="html">Ruby Meetup January 2016</title><link href="http://localhost:4000/activities/2016/01/12/ruby-meetup-january-2016.html" rel="alternate" type="text/html" title="Ruby Meetup January 2016" /><published>2016-01-12T19:56:00+05:45</published><updated>2016-01-12T19:56:00+05:45</updated><id>http://localhost:4000/activities/2016/01/12/ruby-meetup-january-2016</id><content type="html" xml:base="http://localhost:4000/activities/2016/01/12/ruby-meetup-january-2016.html">&lt;p&gt;Happy New Year to all the Rubyists out there from RubyNepal.org. A common way to celebrate new year is by revisiting moments from your past, so I decided to conduct the first edition of the year 2016’s monthly Ruby and Rails Meetup at CloudFactory. It was nostaligic for me to go back to the place from where I learnt so much and is filled with so many good memories.&lt;/p&gt;
+
+&lt;p&gt;As for the meetup itself, two presentation talks were given during the event held on Jan 10th, for which around 35 developers turned up.&lt;/p&gt;
+
+&lt;p&gt;The first talk was titled “&lt;a href=&quot;https://github.com/RubyNepal/rorh/issues/9&quot;&gt;Performance Improvement of Rails Application&lt;/a&gt;” by &lt;a href=&quot;https://twitter.com/sadikshagautam&quot;&gt;Sadiksha Gautam&lt;/a&gt;. She is currently working as Software Developer at EnerNOC, a Ruby on Rails based company in Munich, Germany and was eager to share her experience even before she arrived back to Nepal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos2.meetupstatic.com/photos/event/a/f/8/a/600_445784938.jpeg&quot; alt=&quot;&quot; /&gt;}&lt;/p&gt;
+
+&lt;p&gt;Some good tips on profiling, caching and optimization were shared along with her &lt;a href=&quot;http://files.meetup.com/18762323/Performance_Improvement_Sadiksha_Gautam-Ruby_Nepal_Meetup-Jan_10.pdf&quot;&gt;slides&lt;/a&gt; which you can sneak into your Rails app and claim your performance bonus raise. Kudos to Sadiksha for giving the presentation while being unwell. Get well soon!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/b/a/0/0/600_445787616.jpeg&quot; alt=&quot;&quot; /&gt;}&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; is new rage in the developer universe and DevOps Manager, Bikash Kaji Basukala wasn’t far behind. He showed all the tricks he had pulled off with tools like Docker, Jenkins CI, Github APIs and Hipchat to automate and scale the ever-growing CloudFactory, a Ruby on Rails startup enterprise from Nepal to millions of users around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos4.meetupstatic.com/photos/event/a/f/b/4/600_445784980.jpeg&quot; alt=&quot;&quot; /&gt;}&lt;/p&gt;
+
+&lt;p&gt;Too bad if you missed this &lt;strong&gt;advanced talk&lt;/strong&gt; as some serious &lt;em&gt;Q&amp;amp;A&lt;/em&gt; took place afterwards which was rather informative to anyone who is facing problem scaling apps from monolith to SOA to microservices. Checkout the cool diagrams from his &lt;a href=&quot;https://bit.ly/scaling_ci_with_dockers&quot;&gt;slides&lt;/a&gt; of “&lt;a href=&quot;https://github.com/RubyNepal/rorh/issues/12&quot;&gt;Scaling CI with Docker @ CloudFactory&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos4.meetupstatic.com/photos/event/a/f/f/9/highres_445785049.jpeg&quot; alt=&quot;&quot; /&gt;}&lt;/p&gt;
+
+&lt;p&gt;If you haven’t heard then we &lt;a href=&quot;https://rubynepal-slack.herokuapp.com/&quot;&gt;hangout&lt;/a&gt; on &lt;a href=&quot;https://rubynepal.slack.com/&quot;&gt;Slack&lt;/a&gt; and use github issues to schedule and manage our meetup presentations. You can pick/open &lt;a href=&quot;https://github.com/RubyNepal/rorh/issues&quot;&gt;issue&lt;/a&gt; if you want to share your experience or want others to present on topic that intrests you.&lt;/p&gt;
+
+&lt;p&gt;Meetup attendees thank &lt;a href=&quot;https://twitter.com/bibstha&quot;&gt;Bibek Shrestha&lt;/a&gt; from Austria for the wonderful stickers all the way from &lt;a href=&quot;http://confreaks.tv/events/rubyconf2015&quot;&gt;RubyConf 2015 (Texas, US)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos2.meetupstatic.com/photos/event/9/e/c/0/600_445480640.jpeg&quot; alt=&quot;&quot; /&gt;}&lt;/p&gt;
+
+&lt;p&gt;Also, warm greetings to &lt;a href=&quot;http://www.cloudfactory.com/home&quot;&gt;CloudFactory&lt;/a&gt; for allowing us to use the spacious training hall and snacks for the event. Like it’s said, “One step into the past, one into the future”. Both speakers happen to be my good old #RubyFriends and it was good to see some old faces! So, don’t forget your friends and take care of your family.&lt;/p&gt;
+
+&lt;p&gt;Have a great year ahead and see you at the next &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/&quot;&gt;Ruby and Rails meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Event page: http://www.meetup.com/Nepal-Ruby-Users-Group/events/226808320/&lt;/p&gt;
+
+&lt;p&gt;High resolution snapshots: http://www.meetup.com/Nepal-Ruby-Users-Group/photos/26660245/&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Saroj Maharjan - &lt;a href=&quot;https://twitter.com/zoraslapen&quot;&gt;zoras&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Organiser, &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/&quot;&gt;Ruby and Rails Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Saroj Maharjan</name></author><summary type="html">Happy New Year to all the Rubyists out there from RubyNepal.org. A common way to celebrate new year is by revisiting moments from your past, so I decided to conduct the first edition of the year 2016’s monthly Ruby and Rails Meetup at CloudFactory. It was nostaligic for me to go back to the place from where I learnt so much and is filled with so many good memories.</summary></entry><entry><title type="html">Ruby Meetup December 20, 2015</title><link href="http://localhost:4000/activities/2015/12/23/ruby-meetup-december-20-2015.html" rel="alternate" type="text/html" title="Ruby Meetup December 20, 2015" /><published>2015-12-23T18:37:00+05:45</published><updated>2015-12-23T18:37:00+05:45</updated><id>http://localhost:4000/activities/2015/12/23/ruby-meetup-december-20-2015</id><content type="html" xml:base="http://localhost:4000/activities/2015/12/23/ruby-meetup-december-20-2015.html">&lt;p&gt;After months of hurdles and fuel crisis, we’re finally continuing our monthly Ruby Meetup. Around 30 ruby enthusiasts showed up for the december meetup held on 20th December 2015. I was very glad and a little nervous to host the event for the very first time. I would like to thank &lt;a href=&quot;https://twitter.com/zoraslapen&quot;&gt;Saroj&lt;/a&gt; dai for providing me the opportunity to host the event.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/8/8/9/7/600_445174967.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First speaker was &lt;a href=&quot;https://twitter.com/nivdul&quot;&gt;Ludwine Probst&lt;/a&gt;, data engineer from France. Despite having Mathematics as her academic background, she talked about how she is enjoying her career as a software developer. She also shared her experience as a developer in France. She explained her journey from France to Asian countries to know more about the woman involvement on IT world. Rather than a talk, it was an interactive session with the meetup participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos1.meetupstatic.com/photos/event/d/9/9/e/600_445315710.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos4.meetupstatic.com/photos/event/d/9/d/f/600_445315775.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Second speaker was &lt;a href=&quot;https://twitter.com/gkunwar1&quot;&gt;Ganesh Kunwar&lt;/a&gt;, Sr. Ruby Developer from Jyaasa on the topic “Test Driven Development(TDD Basics)”. He briefly explained on how TDD can be practiced easily with gems like RSpec, Test/Unit, Capybara with some code samples. He shared his experience on TDD workflow on codebase. He shed some light on TDD (Test Driven Development) and DDT (Development Driven Test) approach which not only clarified the value of TDD in QC (Quality Control) but also significantly improving the overall architecture of the system design itself. You can download the  slides &lt;a href=&quot;http://files.meetup.com/18762323/Test%20Driven%20Development%20%28TDD%29%20-%20Ruby%20Nepal%20Meetup%20-%20Dec%2020%2C2015.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A big thank you to &lt;a href=&quot;http://www.cloudfactory.com/home&quot;&gt;CloudFactory&lt;/a&gt; for sponsoring December RubyNepal Meetup and &lt;a href=&quot;https://www.facebook.com/IHKathmandu&quot;&gt;Innovation Hub Kathmandu&lt;/a&gt; for the awesome venue.&lt;/p&gt;
+
+&lt;p&gt;We are using github issue to manage our meetup presentation. You can open &lt;a href=&quot;https://github.com/RubyNepal/rorh/issues&quot;&gt;issue&lt;/a&gt; if you want to share your experience or present on topic that intrests you.&lt;/p&gt;
+
+&lt;p&gt;See you at next &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/&quot;&gt;Ruby and Rails meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos3.meetupstatic.com/photos/event/d/9/8/4/highres_445315684.jpeg&quot; alt=&quot;&quot; /&gt;}&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Susan Joshi - &lt;a href=&quot;https://twitter.com/josisusan&quot;&gt;josisusan&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Co-organiser, Ruby and Rails Meetup&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Sushan Joshi</name></author><summary type="html">After months of hurdles and fuel crisis, we’re finally continuing our monthly Ruby Meetup. Around 30 ruby enthusiasts showed up for the december meetup held on 20th December 2015. I was very glad and a little nervous to host the event for the very first time. I would like to thank Saroj dai for providing me the opportunity to host the event.</summary></entry><entry><title type="html">Recap: Ruby Meetup September 13</title><link href="http://localhost:4000/activities/2015/09/24/recap-ruby-meetup-on-september-2015.html" rel="alternate" type="text/html" title="Recap: Ruby Meetup September 13" /><published>2015-09-24T10:34:00+05:45</published><updated>2015-09-24T10:34:00+05:45</updated><id>http://localhost:4000/activities/2015/09/24/recap-ruby-meetup-on-september-2015</id><content type="html" xml:base="http://localhost:4000/activities/2015/09/24/recap-ruby-meetup-on-september-2015.html">&lt;p&gt;The monthly Ruby Meetup was held on the 2nd Sunday of September last week. Local ruby enthusiasts came together to quench and moreover arouse appetite for learning.&lt;/p&gt;
+
+&lt;p&gt;Two presentations were given during the meetup. First was a follow-up of our &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/events/224417878/&quot;&gt;last meetup&lt;/a&gt; on front-end development; &lt;strong&gt;Asset Management in Rails&lt;/strong&gt; by &lt;a href=&quot;https://twitter.com/josisusan&quot;&gt;&lt;em&gt;Susan Joshi&lt;/em&gt;&lt;/a&gt;. Things got serious when &lt;a href=&quot;https://twitter.com/prasvinp&quot;&gt;&lt;em&gt;Prasvin Pandey&lt;/em&gt;&lt;/a&gt; steered ahead to dive into &lt;strong&gt;MetaProgramming in Ruby&lt;/strong&gt;. Gladly no-one dozed off as things got pretty cozy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can download the slides and example codes from &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/files/&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A big shout out to our sponsors for the September event. &lt;a href=&quot;mailto:rubynepal.org@gmail.com&quot;&gt;Get in touch&lt;/a&gt; if you or your company wants to sponsor and promote the event in future.&lt;/p&gt;
+
+&lt;p&gt;1) &lt;a href=&quot;https://www.facebook.com/IHKathmandu&quot;&gt;Innovation Hub Kathmandu&lt;/a&gt; for graciously allowing us to use the venue.&lt;/p&gt;
+
+&lt;p&gt;2) &lt;a href=&quot;http://leapfrog.academy/courses_ror.php&quot;&gt;Leapfrog.Academy&lt;/a&gt; who are currently teaching a course on &lt;em&gt;Web Development with Ruby on Rails&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;3) &lt;a href=&quot;http://codysseynepal.com/&quot;&gt;Codyssey Web Nepal&lt;/a&gt;, a RoR dev shop.&lt;/p&gt;
+
+&lt;p&gt;In a true developer fashion, going forward we’ll be using github to manage meetup presentations. You can go ahead and open issues in https://github.com/RubyNepal/rorh/issues for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Either something you want to present on&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show off what you have built or working on&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Things you want to learn about&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I overheard there was an inspiring entrepreneur speech involved during the networking session at the end. &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/photos/26406995/&quot;&gt;Picture proofs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;See you at the &lt;a href=&quot;http://www.meetup.com/Nepal-Ruby-Users-Group/&quot;&gt;next Ruby and Rails meetup&lt;/a&gt;!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Saroj Maharjan - &lt;a href=&quot;http://twitter.com/zoraslapen&quot;&gt;zoras&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Organiser, Ruby and Rails Meetup&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos4.meetupstatic.com/photos/event/2/e/3/a/600_441971834.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos2.meetupstatic.com/photos/event/2/e/1/9/600_441971801.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Saroj Maharjan</name></author><summary type="html">The monthly Ruby Meetup was held on the 2nd Sunday of September last week. Local ruby enthusiasts came together to quench and moreover arouse appetite for learning.</summary></entry><entry><title type="html">Join Ruby and Rails Meetup</title><link href="http://localhost:4000/activities/2015/08/07/ruby-and-rails-meetup.html" rel="alternate" type="text/html" title="Join Ruby and Rails Meetup" /><published>2015-08-07T14:03:00+05:45</published><updated>2015-08-07T14:03:00+05:45</updated><id>http://localhost:4000/activities/2015/08/07/ruby-and-rails-meetup</id><content type="html" xml:base="http://localhost:4000/activities/2015/08/07/ruby-and-rails-meetup.html">&lt;p&gt;Every year around the world there are ruby meetup and rails meetup happenings, so why not organise Ruby/Rails Meetup here at Kathmandu. This meetup will not be just an event but also be a point of unite and interaction and sharing of knowledge and experiences between the distributed ruby developers in kathmandu valley.&lt;/p&gt;
+
+&lt;p&gt;This will be a regular event happening once a month, to be specific; every second Sunday of the month starting August 9th, 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/CLoUmwqWIAAc9AR.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We want a lot of people and groups to be engaged to make this event success. Feel free to suggest us ideas and to come up forward.&lt;/p&gt;
+
+&lt;p&gt;And if you want to present or be a speaker at the meetup, you are most welcome and this is your time to send us details.&lt;/p&gt;
+
+&lt;p&gt;Thought about speaking? Want to give speaking at Ruby on Rails Meetup a shot, but not sure what to talk about?&lt;/p&gt;
+
+&lt;p&gt;Even if you have a tiny inkling that you’d want to speak, like your experience, technology, tips and tricks, even maybe a tutorial, we’ll help you to ideate, write and present.&lt;/p&gt;
+
+&lt;p&gt;Great business starts with unsurpassed people skills, it is a great oppurtunity for tech business houses to be promoted and find connections at the event. We welcome sponsorship of any kind financial, promotional, resources or even may be a service or server.&lt;/p&gt;
+
+&lt;p&gt;For more details and to RSVP checkout our meetup page at http://www.meetup.com/Nepal-Ruby-Users-Group/.&lt;/p&gt;
+
+&lt;p&gt;See you at the next Ruby and Rails meetup!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Saroj Maharjan - &lt;a href=&quot;http://twitter.com/zoraslapen&quot;&gt;zoras&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Organiser, Ruby and Rails Meetup&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Edited and reposted by Saroj Maharjan (orginal content by Rohit Joshi)</name></author><summary type="html">Every year around the world there are ruby meetup and rails meetup happenings, so why not organise Ruby/Rails Meetup here at Kathmandu. This meetup will not be just an event but also be a point of unite and interaction and sharing of knowledge and experiences between the distributed ruby developers in kathmandu valley.</summary></entry><entry><title type="html">Monthly Dev Meetup July 2014</title><link href="http://localhost:4000/activities/2014/07/31/dev-meetup-july-26-2014.html" rel="alternate" type="text/html" title="Monthly Dev Meetup July 2014" /><published>2014-07-31T19:37:00+05:45</published><updated>2014-07-31T19:37:00+05:45</updated><id>http://localhost:4000/activities/2014/07/31/dev-meetup-july-26-2014</id><content type="html" xml:base="http://localhost:4000/activities/2014/07/31/dev-meetup-july-26-2014.html">&lt;p&gt;The tech scene in Kathmandu is ever growing but it is rather lacking a sense of community. Dev Meetup aims to fill this void with a regular meetup for developers where like minded individuals can gather, get to know each other and share their ideas/views.&lt;/p&gt;
+
+&lt;p&gt;The meetup will be carried out monthly (last Saturday of the month) to cover web development topics like ‘ruby’, ‘rails’, ‘javascript’, ‘devops’, ‘databases’, etc.&lt;/p&gt;
+
+&lt;p&gt;The first successful &lt;a href=&quot;https://www.facebook.com/events/768447783198796/&quot;&gt;Dev Meetup&lt;/a&gt; was held on July 26, 2014 at CloudFactory, the next Dev Meetup is scheduled for August 30th, 2014 at the same venue.&lt;/p&gt;
+
+&lt;p&gt;Sign up at https://plus.google.com/events/cr78vpsi1466vv0ldj990fdgdr8 to join us. Kudos to CloudFactory for sponsoring both the events.&lt;/p&gt;
+
+&lt;p&gt;Follow us &lt;a href=&quot;http://twitter.com/ruby_nepal&quot;&gt;@ruby_nepal&lt;/a&gt; for latest updates and news.&lt;/p&gt;
+
+&lt;p&gt;If you are not sure what to expect or missed the 1st Dev Meetup, check out the pics and videos from the first one.&lt;/p&gt;
+
+&lt;p&gt;** Pictures **&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/BtdOPL3CMAAlPlN.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://pbs.twimg.com/media/BtdmzUJCUAEDi0W.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;** FB Event Pics and Details: ** 
+https://www.facebook.com/events/768447783198796/&lt;/p&gt;
+
+&lt;p&gt;** Videos And Slides:  **&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I) 10 Ways We Can Be Better by Mark Sears&lt;/em&gt; - &lt;a href=&quot;http://twitter.com/marktsears&quot;&gt;@marktsears&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d3j5vwomefv46c.cloudfront.net/photos/large/861728292.jpg?1406529728&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/ktmdevmeetup&quot;&gt;Slides - Mark DevMeetup Talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;II) Ansible by Bikash Kaji Basukala&lt;/em&gt; - &lt;a href=&quot;http://twitter.com/kajisaap&quot;&gt;@kajisaap&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/BtdXoatCcAAmTPB.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bit.ly/kajionansible&quot;&gt;Slides - Kaji DevMeetup Talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;III) Ember.js with Ember-Cli by Sachin Sagar Rai&lt;/em&gt; - &lt;a href=&quot;http://twitter.com/millisami&quot;&gt;@millisami&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d3j5vwomefv46c.cloudfront.net/photos/large/861727487.png?1406528902&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://nepalonrails.com/blog/2014/07/emberjs-app-using-ember-cli/&quot;&gt;Slides - Millisami DevMeetup Talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to be a speaker in future meetups or wish someone would impart the knowledge or have any  suggestions, then do let us know. If you want to host / sponser the event at your company then ping &lt;a href=&quot;http://twitter.com/zoraslapen&quot;&gt;@zoraslapen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to meet you guys!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Saroj Maharjan - &lt;a href=&quot;http://github.com/&quot;&gt;zoras&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Organiser, Dev Meetup&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Saroj Maharjan</name></author><summary type="html">The tech scene in Kathmandu is ever growing but it is rather lacking a sense of community. Dev Meetup aims to fill this void with a regular meetup for developers where like minded individuals can gather, get to know each other and share their ideas/views.</summary></entry><entry><title type="html">Ruby on Rails Training at Hetauda School Of Management</title><link href="http://localhost:4000/activities/2013/06/12/ror-trainings-at-hetauda-school-of-management.html" rel="alternate" type="text/html" title="Ruby on Rails Training at Hetauda School Of Management" /><published>2013-06-12T22:47:00+05:45</published><updated>2013-06-12T22:47:00+05:45</updated><id>http://localhost:4000/activities/2013/06/12/ror-trainings-at-hetauda-school-of-management</id><content type="html" xml:base="http://localhost:4000/activities/2013/06/12/ror-trainings-at-hetauda-school-of-management.html">&lt;p&gt;We are organising 4 sessions(one session per 2 week) ruby on rails training series at Hetauta School of Management for BIM final year students from May 25, 2013. We recieved an special invitation from the college to do this training ans we are pleased to aid the college for conducting such extra curricular programs that will help students to broaded their skills and also we are happy to spread the ruby and ruby on rails wisedom to our next-generation IT professionals.&lt;/p&gt;
+
+&lt;p&gt;Our training structure is designed as shown below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[May 25] Front-End Web Basics (HTML5/CSS3, Javascript/JQuery, AJAX, JSON)&lt;/li&gt;
+  &lt;li&gt;[June 8] Ruby Literacy session (Ruby Installation and Ruby Basics, irb, OOP and Ruby, Modules and File Operations, Blocks )&lt;/li&gt;
+  &lt;li&gt;[June 22] Getting started with Rails (RubyGems, Rails Installation, Rails Basics)&lt;/li&gt;
+  &lt;li&gt;[July 6] Up with Rails ( Advance Rails, debugging, deloyment with heroku, Project)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;if you are around Hetauda, You can catch us at Hetauda School Of Management.&lt;/p&gt;</content><author><name>Rohit Joshi</name></author><summary type="html">We are organising 4 sessions(one session per 2 week) ruby on rails training series at Hetauta School of Management for BIM final year students from May 25, 2013. We recieved an special invitation from the college to do this training ans we are pleased to aid the college for conducting such extra curricular programs that will help students to broaded their skills and also we are happy to spread the ruby and ruby on rails wisedom to our next-generation IT professionals.</summary></entry><entry><title type="html">How we build rubynepal using Octopress</title><link href="http://localhost:4000/development/2013/06/06/how-we-build-rubynepal-using-octopress.html" rel="alternate" type="text/html" title="How we build rubynepal using Octopress" /><published>2013-06-06T19:18:00+05:45</published><updated>2013-06-06T19:18:00+05:45</updated><id>http://localhost:4000/development/2013/06/06/how-we-build-rubynepal-using-octopress</id><content type="html" xml:base="http://localhost:4000/development/2013/06/06/how-we-build-rubynepal-using-octopress.html">&lt;p&gt;This is not another getting started with octopress guide, this is sharing of our experience and couple of hacks we did while developing rubynepal, that may be helpful to others.&lt;/p&gt;
+
+&lt;p&gt;In the beginning of June 2013, We came up with this idea of building a community website for ruby developers of nepal.
+We didn’t need to have a full content management features but we needed features like blog support, pages support, ease for deployments and easy contributing mechanism. Finally, we decided to build rubynepal.org with &lt;a href=&quot;http://octopress.org&quot;&gt;octopress&lt;/a&gt; and github pages. With this we could to tap out Markdown without needing a web-based WYSIWYG editor and type a command to send everything up to the free Github Pages service and our whole website would be a github repo, perfect for collaboration.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://octopress.org/docs/&quot;&gt;docs&lt;/a&gt; has pretty neat documentation for installing octopress, configuring setting up github pages. Within few minutes basic website was up at github pages.&lt;/p&gt;
+
+&lt;p&gt;Next, themes, we forked this beautiful and responsive theme &lt;a href=&quot;https://github.com/shashankmehta/greyshade&quot;&gt;greyshade&lt;/a&gt; and customized it. Upto here we had a basic rubynepal.org up and running.&lt;/p&gt;
+
+&lt;p&gt;Now, octopress has its root path that displays the posts ie. essentially blog index, but we needed to have a page instead of blog index.
+For this, first we moved &lt;em&gt;source/index.html&lt;/em&gt; to &lt;em&gt;source/blog/index.html&lt;/em&gt;. Then, created a markdown where we wrote what is to be there in homepage.
+We put all such kinds of markdown inside &lt;em&gt;_partial&lt;/em&gt; folder.
+Then, in &lt;em&gt;source/index.html&lt;/em&gt; we got rid of all exsiting code with&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;  ---
+  layout: default
+  ---
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;page_about&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+    {% render_partial _partial/about.markdown %}
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This way about.markdown will be rendered in root page while blog index will be available at &lt;em&gt;/blog&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now we had to put a list of developers and advisors info in members page. One way was to dump those info to a yml file and access data from there. Matt Swanson has excellent write on how to do that in his &lt;a href=&quot;http://mdswanson.com/blog/2013/06/03/jekyll-201.html&quot;&gt;blog&lt;/a&gt;. With this, we could dump the data from yml file to jekyll &lt;em&gt;site&lt;/em&gt; variable.&lt;/p&gt;
+
+&lt;p&gt;Finally, we built a small heroku app that powers the join page forms and we have rubynepal.org as how it is now.&lt;/p&gt;</content><author><name>Rohit Joshi</name></author><summary type="html">This is not another getting started with octopress guide, this is sharing of our experience and couple of hacks we did while developing rubynepal, that may be helpful to others.</summary></entry></feed>
